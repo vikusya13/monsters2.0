@@ -1,0 +1,32 @@
+header{
+    background-color: black;
+}
+
+header, img{
+    margin:15px;
+}
+
+.hello{
+    font-size:25px;
+}
+
+h1{
+    padding:10px;
+}
+
+main, p{
+    font-size: 20px;
+}
+
+body{
+    background-color: #00001a;
+    color: #9999ff;
+}
+
+footer{
+    background-color: black;
+}
+
+a{
+    color:#9999ff;
+}
